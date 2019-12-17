@@ -11,6 +11,7 @@
         android:layout_height="wrap_content"
         android:text="Hello python!"
         android:textSize="30sp"
+              android:text
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.455"
         app:layout_constraintLeft_toLeftOf="parent"
